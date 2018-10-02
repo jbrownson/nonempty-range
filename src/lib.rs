@@ -2,8 +2,8 @@ use std::ops::Range;
 
 #[derive(Clone, Hash, Eq, PartialEq)]
 pub struct NonemptyRange {
-  start: usize,
-  size_minus_one: usize
+  pub start: usize,
+  pub size_minus_one: usize,
 }
 
 impl IntoIterator for NonemptyRange {
