@@ -1,5 +1,5 @@
 [package]
-name = "nonempty-range"
+name = "nonempty_range"
 version = "0.1.0"
 description = "A simple Range representing nonempty ranges."
 readme = "README.md"
