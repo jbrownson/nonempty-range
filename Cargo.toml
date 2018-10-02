@@ -1,7 +1,13 @@
 [package]
 name = "nonempty-range"
 version = "0.1.0"
+description = "A simple Range representing nonempty ranges."
+readme = "README.md"
 authors = ["Jake Brownson <jbrownson@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/jbrownson/nonempty-range"
+license = "MIT"
+keywords = ["range", "nonempty"]
+categories = ["data-structures"]
 
 [dependencies]
